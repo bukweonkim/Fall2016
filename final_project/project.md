@@ -5,24 +5,24 @@ Your final project gives you the opportunity to dive into embedded computing sof
 NOTE. Extra credit for using mobile phone or any embedded devices.
 
 ## Project schedule
-| No.   | Date  | Name | Topic | 
-| ----- | ----- | ---- | ----- | 
+| No.   | Date  | Name | Topic |
+| ----- | ----- | ---- | ----- |
 | 1     | 11-21 |      |       |
-| 2     | 11-21 |      |       |
-| 3     | 11-21 |      |       |
-| 4     | 11-21 |      |       |
+| 2     | 11-21 | 김도현 | DGFEM for Poisson 2D |
+| 3     | 11-21 | 서지연 | FEM   |
+| 4     | 11-21 | 하헌규 |       |
 | 5     | 11-21 |      |       |
-| 6     | 11-28 |      |       |
-| 7     | 11-28 |      |       |
-| 8     | 11-28 |      |       |
-| 9     | 11-28 |      |       |
-| 10    | 11-28 |      |       |
-| 11    | 12-05 |      |       |
-| 12    | 12-05 |      |       |
-| 13    | 12-05 |      |       |
-| 14    | 12-05 |      |       |
-| 15    | 12-05 |김부권|       |
-| 16    | 12-05 |      |       |
+| 6     | 11-28 | 황윤구 | FEM   |
+| 7     | 11-28 | 장준영 |       |
+| 8     | 11-28 | 손승배 |       |
+| 9     | 11-28 | 이윤정 | kNN   |
+| 10    | 11-28 | 이시복 |       |
+| 11    | 12-05 | 이승리 |       |
+| 12    | 12-05 | 이성민 | CT    |
+| 13    | 12-05 | 김화평 | Microwave imaging    |
+| 14    | 12-05 | 김영수 |       |
+| 15    | 12-05 | 김부권 |       |
+| 16    | 12-05 | 최원준 | TBA   |
 
 ## Project presentation
  11/21, 11/28, 12/5
